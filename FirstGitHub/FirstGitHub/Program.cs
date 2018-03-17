@@ -10,6 +10,7 @@ namespace FirstGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("updating program.cs and updating to github");
         }
     }
 }
