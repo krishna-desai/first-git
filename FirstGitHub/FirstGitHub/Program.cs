@@ -11,6 +11,8 @@ namespace FirstGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("updating program.cs and updating to github");
+            Console.WriteLine("updating program.cs from VS Code and pusing it to github");
+            Console.WriteLine("updating program.cs from VS Code, staging and commit");            
         }
     }
 }
