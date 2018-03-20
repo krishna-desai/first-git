@@ -15,7 +15,8 @@ namespace FirstGitHub
             Console.WriteLine("updating program.cs from VS Code and pusing it to github");
             Console.WriteLine("updating program.cs from VS Code, staging and commit");  
             Console.WriteLine("comment from sayantanchat");
-            Console.WriteLine("new branch created ...");      
+            Console.WriteLine("new branch created ...");     
+            Console.WriteLine("restricted collaborators");
         }
     }
 }
